@@ -44,5 +44,5 @@ The system autonomously scrapes high-ticket local businesses, identifies "invisi
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/nexova-lead-engine.git](https://github.com/yourusername/nexova-lead-engine.git)
-cd nexova-lead-engine
+git clone [https://github.com/yourusername/nexova-lead-engine.git](https://github.com/baiitax/Nexova.git)
+cd Nexova
